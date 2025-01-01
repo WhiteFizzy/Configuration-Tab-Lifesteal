@@ -8,5 +8,6 @@ A premium tab setup for the lifesteal server
 - BattlePass
 - LifestelCore
 - GangPlus
+- PlacehorderApi
 
 # The configuration is in Italian, if you are English translate and ways
